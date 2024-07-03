@@ -46,5 +46,5 @@ app.get('/books', async (req, res) => {
 app.listen(5000, (req, res)=>{
     console.log('Server is running on port no 5000!');
 })
-connectDB('mongodb+srv://niyateesanja:niy0206SA@cluster0.fhsfxei.mongodb.net/test');
+connectDB('Mongodb connection string');
 module.exports = router;
