@@ -1,0 +1,12 @@
+[{
+    "FirstName":"Aditi",
+    "LastName":"Patel",
+    "Email":"abcd@gmail.com",
+    "Password":"abc@123DE",
+    "Type":"Customer",
+    "BookIntrest":"Novels",
+    "City":"Rajkot",
+    "Pincode":"360004",
+    "State":"Gujarat",
+    "Numberofbooks":"4"
+}]

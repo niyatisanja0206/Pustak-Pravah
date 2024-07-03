@@ -1,0 +1,109 @@
+[{
+    "title":"Aakhet",
+    "author":"Ashvini Bhatt",
+    "url":"/Books/Book1.png",
+    "price":"200",
+    "language":"Gujarati",
+    "description":"One of the best of Ashwini Bhatt's, it 1st appeared in the Gujarati weekly magazine, Abhiyaan. Its really amazing novel, a must read, if you like to read novels.",
+    "pub":"Navbharat Publication",
+    "type":"Novel"
+},{
+    "title":"Anand Math",
+    "author":"Bankimchandra Cheterji",
+    "url":"/Books/Book2.png",
+    "price":"250",
+    "language":"Hindi",
+    "description":"Ananda math is an extraordinary political novel. The plot with its epic dimensions is based on the sanyasi rebellion in the late eighteenth century.",
+    "pub":"Seth Publication",
+    "type":"Novel"
+},{
+    "title":"The Alchemist",
+    "author":"Paulo Coelho",
+    "url":"/Books/Book3.png",
+    "price":"300",
+    "language":"English",
+    "description":"Paulo Coelho's enchanting novel has inspired a devoted following around the world. This story, dazzling in its powerful simplicity and inspiring wisdom.",
+    "pub":"Seth Publication",
+    "type":"Novel"
+},{
+    "title":"Three Mistakes of My life",
+    "author":"Chetan Bhagat",
+    "url":"/Books/Book4.png",
+    "price":"350",
+    "language":"English",
+    "description":"In late-2000, a young boy in Ahmedabad called Govind dreamt of having a business. To accomodate his friends Ish and Omi's passion, they open a cricket shop.",
+    "pub":"Global Publication",
+    "type":"Novel"
+},{
+    "title":"Saat Pagla Aakashma",
+    "author":"Kundanika Kapadiya",
+    "url":"/Books/Book5.png",
+    "price":"150",
+    "language":"Gujarati",
+    "description":"Saat Pagla Aakash Ma is an inspirational book about women. Its ever-read on women equality and empowerment.",
+    "pub":"Seth Publication",
+    "type":"Novel"
+},{
+    "title":"This is not your story",
+    "author":"Savi Sharma",
+    "url":"/Books/Book6.png",
+    "price":"230",
+    "language":"English",
+    "description":"Sometimes, you do not write your story, it writes you. You don't choose your story, it chooses you. But would you believe it.",
+    "pub":"Navbharat Publication",
+    "type":"Novel"
+},{
+    "title":"It ends with us",
+    "author":"Collen Hoover",
+    "url":"/Books/Book7.png",
+    "price":"450",
+    "language":"English",
+    "description":"It Ends with Us is my first Colleen Hoover book and I must say that it surpassed all the expectations that I had for it.",
+    "pub":"Seth Publication",
+    "type":"Novel"
+},{
+    "title":"Meluha",
+    "author":"Amish",
+    "url":"/Books/Book8.png",
+    "price":"400",
+    "language":"English",
+    "description":"The inhabitants of that period called it the land of Meluha ? a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived.",
+    "pub":"Global Publication",
+    "type":"Mythology"
+},{
+    "title":"Draupadi",
+    "author":"Kajal Oza Vaidya",
+    "url":"/Books/Book9.png",
+    "price":"300",
+    "language":"Gujarati",
+    "description":"This is the story of a woman who has something to say, a woman who wants you to know her story, her feelings such as you must have felt yourself, her emotions in which you can perhaps see your own reflection.",
+    "pub":"Navbharat Publication",
+    "type":"Mythology"
+},{
+    "title":"Madhushala",
+    "author":"Harivanshrai Bachchan",
+    "url":"/Books/Book10.png",
+    "price":"340",
+    "language":"Hindi",
+    "description":"Madhushala is a tavern or an alehouse, literally it could also mean a sweet [as honey for madhu] home or a school [shala] of sweetness.",
+    "pub":"Global Publication",
+    "type":"Poetry"
+},{
+    "title":"Prem no Pagarav",
+    "author":"Dr. I K Vijlivala",
+    "url":"/Books/Book11.png",
+    "price":"250",
+    "language":"Gujarati",
+    "description":"Prem No Pagrav is a Gujarati novel that intricately explores the complexities of love and relationships, weaving a narrative that delves into the emotional depths of its characters.",
+    "pub":"Navbharat Publication",
+    "type":"Novel"
+},{
+    "title":"Chanakya Niti",
+    "author":"Chankya",
+    "url":"/Books/Book12.png",
+    "price":"400",
+    "language":"Hindi",
+    "description":"Chanakya Neeti is a treatise on the ideal way of life, and shows Chanakya's deep study of the Indian way of life.",
+    "pub":"Global Publication",
+    "type":"Knowledge"
+}]
